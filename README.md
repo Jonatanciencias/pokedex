@@ -1,7 +1,9 @@
 
 # Pokedex
 
-![pikameme](./assets/pikameme.jpg)
+<div style="width: 300px; text-align: center;">
+  <img src="./assets/pikameme.jpg" alt="pikameme">
+</div>
 
 > [!WARNING]
 > El uso de la imagen de pokemon es solo con fines educativos, no se pretende lucrar con ella y los derechos de explotacion y demas pertenece a Nintendo®
