@@ -3,10 +3,8 @@
 
 ![pikameme](./assets/pikameme.jpg)
 
-
-> .[!WARNING].
+> [!WARNING]
 > El uso de la imagen de pokemon es solo con fines educativos, no se pretende lucrar con ella y los derechos de explotacion y demas pertenece a Nintendo®
-
 > La licencia del MIT solo corresponde al codigo de este proyecto.
 
 Este proyecto es una Pokedex  de los primeros 151 pokemon basada en el ejercicio de FreeCodeCamp.
@@ -33,7 +31,7 @@ He añadido algunas modificaciones como:
 1. Ejecuta `npm start` para iniciar la aplicación.
 2. Abre tu navegador y ve a `http://localhost:3000` para ver la Pokedex.
 
-> .[!NOTE].
+> [!NOTE]  
 > Asegúrate de tener Node.js instalado en tu máquina antes de ejecutar los comandos anteriores.
 
 ## Contribución
