@@ -1,12 +1,11 @@
 
 # Pokedex
 
-<div style="width: 200px; text-align: center;">
-  <img src="./assets/pikameme.jpg" alt="pikameme">
-</div>
+![pikameme](./assets/pikameme.jpg)
 
 > [!WARNING]
 > El uso de la imagen de pokemon es solo con fines educativos, no se pretende lucrar con ella y los derechos de explotacion y demas pertenece a Nintendo®
+
 > La licencia del MIT solo corresponde al codigo de este proyecto.
 
 Este proyecto es una Pokedex  de los primeros 151 pokemon basada en el ejercicio de FreeCodeCamp.
