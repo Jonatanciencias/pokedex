@@ -1,7 +1,7 @@
 
 # Pokedex
 
-<div style="width: 300px; text-align: center;">
+<div style="width: 200px; text-align: center;">
   <img src="./assets/pikameme.jpg" alt="pikameme">
 </div>
 
